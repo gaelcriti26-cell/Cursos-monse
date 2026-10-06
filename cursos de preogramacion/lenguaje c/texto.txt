@@ -1,0 +1,4 @@
+El lenguaje C es un lenguaje de programacion estructurado.
+Con C se escriben sistemas operativos, compiladores y programas.
+Aprender C ayuda a entender como funciona la memoria.
+El que domina C domina los punteros, y los punteros dan miedo al principio.
